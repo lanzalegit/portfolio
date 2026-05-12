@@ -385,9 +385,11 @@ document.getElementById("contactForm").addEventListener("submit", async e => {
   status.className = "form-status";
 
   try {
+    const formData = new FormData(e.target);
+    formData.delete("cf-turnstile-response"); // Turnstile validation is Pro-only on Web3Forms; we use it as a client-side gate only
     const res  = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
-      body:   new FormData(e.target),
+      body:   formData,
     });
     const json = await res.json();
 
