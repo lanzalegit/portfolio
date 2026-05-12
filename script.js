@@ -277,8 +277,8 @@ const CONTENT = {
 // ║  SOCIAL LINKS — Replace with your actual profile URLs               ║
 // ╚══════════════════════════════════════════════════════════════════════╝
 const LINKS = {
-  github:   "https://github.com/YOUR_USERNAME",       // ← replace
-  linkedin: "https://linkedin.com/in/YOUR_PROFILE",   // ← replace
+  github:   "https://github.com/lanzalegit",       // ← replace
+  linkedin: "www.linkedin.com/in/leonardo-lanzab",   // ← replace
 };
 
 // ══════════════════════════════════════════════════════════════════════

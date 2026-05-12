@@ -5,8 +5,8 @@
 ## Contact
 - Email: leonardolanza10@gmail.com
 - Location: Prague, Czech Republic
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: www.linkedin.com/in/leonardo-lanzab
+- GitHub: https://github.com/lanzalegit
 
 ## Summary
 Platform and Solutions Architect with 12+ years in enterprise software and integration. Experienced in leading modernization initiatives, delivering scalable and resilient solutions, driving API-led connectivity, and implementing decentralized platform models while ensuring compliance with industry standards (SoX, GxP) and enhancing customer experience.
