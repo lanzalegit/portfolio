@@ -278,7 +278,7 @@ const CONTENT = {
 // ╚══════════════════════════════════════════════════════════════════════╝
 const LINKS = {
   github:   "https://github.com/lanzalegit",       // ← replace
-  linkedin: "www.linkedin.com/in/leonardo-lanzab",   // ← replace
+  linkedin: "https://www.linkedin.com/in/leonardo-lanzab",
 };
 
 // ══════════════════════════════════════════════════════════════════════
