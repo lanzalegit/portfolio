@@ -1,0 +1,31 @@
+# robots.txt — Leonardo Lanza portfolio
+# Allow all crawlers including AI agents
+
+User-agent: *
+Allow: /
+
+# Major AI crawlers — explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# LLM-readable structured profile
+# https://llmstxt.org
+# Available at: /llms.txt

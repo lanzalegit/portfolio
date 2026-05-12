@@ -1,0 +1,76 @@
+# Leonardo Lanza — Solutions Architect
+
+> Platform and Solutions Architect specialized in Enterprise Systems integration and API ecosystems. Based in Prague, Czech Republic. Open to consulting engagements, short-term projects, and advisory roles in integration architecture, API management, and enterprise automation.
+
+## Contact
+- Email: leonardolanza10@gmail.com
+- Location: Prague, Czech Republic
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/YOUR_USERNAME
+
+## Summary
+Platform and Solutions Architect with 12+ years in enterprise software and integration. Experienced in leading modernization initiatives, delivering scalable and resilient solutions, driving API-led connectivity, and implementing decentralized platform models while ensuring compliance with industry standards (SoX, GxP) and enhancing customer experience.
+
+## Available for
+- Consulting engagements
+- Short-term projects
+- Advisory roles in integration architecture, API management, and enterprise automation
+
+## Experience
+
+### Associate Director, Integration Solutions Architect
+Company: MSD Czech Republic s.r.o. | Systems Integration (CTO)
+Period: February 2023 – Present
+- Platform Architect for Systems Integration platforms: MuleSoft (RTF & CH 2.0), API Management (Kong), MFT (OpenText)
+- Designed reliable, resilient, scalable, business-critical solutions across company divisions
+- Led strategic migration from legacy TIBCO BW to MuleSoft and SAP BTP
+- Decentralized the Integration Product Line via a Federated Model, empowering teams and improving platform agility
+- Ensured platform compliance with SoX and GxP regulations
+- Championed API-led connectivity across internal functions
+
+### Associate Director, Integration & Process Automation Lead
+Company: Organon CZ s.r.o. (MSD CZ spin-off) | Integration and Process Automation
+Period: February 2021 – January 2023
+- Architecture and solution designs for Veeva Vault, SAP S4, Coupa, ServiceNow, Workday, Qlik
+- Led a team of 19 contractors (architects, analysts, developers) using DevOps/Agile methodology
+- Deployed 35+ RPA bots within two years, generating millions in savings and revenue
+- Defined roadmaps, capabilities, standards, and governance for integration and automation initiatives
+- Built technology partner relationships for licensing and external labor
+- Reference contact for stakeholders on platform capabilities
+
+### Senior Integration Developer
+Company: MSD Czech Republic s.r.o. | Application Integration and Streaming Analytics
+Period: June 2015 – January 2021
+- TIBCO BusinessWorks 5.x/6.x APIs and synchronous jobs via REST, SOAP, FTP
+- CI/CD with Git, Jenkins, Maven, Artifactory, SoapUI, Groovy scripts
+- Integrated Salesforce, Veeva Vault, SAP, AWS, SecureWorks, ThreatConnect, Archer
+- Streaming applications with TIBCO Streambase for real-time data transformation
+- Java EE application to automate TIBCO BW5 deployments via Linux scripts
+
+### Junior Developer
+Company: Sciamus s.r.o. | Software Development
+Period: December 2013 – May 2015
+- TIBCO BusinessEvents and BusinessWorks 5.x
+
+### Junior Developer
+Company: Idealogic | Software Consultancy
+Period: October 2012 – June 2013
+- ASP.NET, C#, jQuery, JavaScript, Oracle 11.2.0
+
+## Skills
+
+Technical: REST APIs, SOAP, API Management, MuleSoft, TIBCO BW 5.x/6.x, SAP BTP, RPA/Process Automation, CI/CD, DevOps, Agile/Scrum, Java EE, C#, JavaScript, SQL/Oracle, Streaming Analytics
+
+Platforms: MuleSoft Anypoint, Kong API Gateway, SAP S4/BTP, Salesforce, Veeva Vault, ServiceNow, Workday, Coupa, AWS, Git, Jenkins, Maven, Artifactory, TIBCO Streambase
+
+Soft skills: Technical Leadership, Stakeholder Management, Team Building, Strategic Planning, Vendor Management, Cross-cultural Communication, Public Speaking, Mentoring
+
+## Certifications
+- AWS Certified Solutions Architect – Associate (Amazon Web Services)
+- Anypoint Platform Architecture: Integration Solutions (Salesforce / MuleSoft)
+- TIBCO BW 6.x Certified Professional (TIBCO Software)
+
+## Education
+- Software Engineering (Master's equivalent), 2006–2013
+- University of Seville, Spain
+- Erasmus exchange: School of Banking and Management, Kraków (1 year)
